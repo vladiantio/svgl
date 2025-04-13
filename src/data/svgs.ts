@@ -3549,5 +3549,11 @@ export const svgs: iSVG[] = [
     },
     url: 'https://github.com/',
     brandUrl: 'https://brand.github.com/'
+  },
+  {
+    title: 'Lovable',
+    category: 'Devtool',
+    route: '/library/lovable-dev.svg',
+    url: 'https://lovable.dev/'
   }
 ];
